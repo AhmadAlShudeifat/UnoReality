@@ -1,0 +1,23 @@
+send at boot:
+
+Address: /vmt/room/moveuser
+
+Arguments:
+[ 
+  0,      // Index: 0 (Headset)
+  1,      // Enable: 1 (Turn ON / Wake up)
+  0.0,    // Time Offset
+  0.0,    // X Position (Locked)
+  0.0,    // Y Position (Locked)
+  0.0,    // Z Position (Locked)
+  0.0,    // qx (Default straight-ahead rotation)
+  0.0,    // qy
+  0.0,    // qz
+  1.0     // qw (1.0 means identity/no rotation)
+]
+
+
+send for tracking
+
+Address: /vmt/room/moveuser
+Arguments: [0, 1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0]
