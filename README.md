@@ -15,7 +15,7 @@ To keep your system clean, we only install exactly what is needed to make the he
 
 1. **ESP32-P4**
 2. **MPU-6050 6-Axis**
-3. **Any Arduino speaker but preferrably "Mini Loudspeaker"
+3. **Any Arduino speaker but preferrably "Mini Loudspeaker"**
 
 ### Python Dependencies
 Install the required base libraries using `pip`:
