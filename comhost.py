@@ -12,7 +12,7 @@ import queue
 SP = 'COM3'
 BR = '500000'
 FQBN = 'esp32:esp32:esp32p4'
-FIRMWARE = 'C:/users/ahmad alshudeifat/desktop/unoreality/firmware.cpp'
+FIRMWARE = 'firmware.cpp'
 
 MAINHOST = '192.168.1.50'
 MAINPORT = 6738
