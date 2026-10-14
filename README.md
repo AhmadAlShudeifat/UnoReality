@@ -11,6 +11,12 @@ To keep your system clean, we only install exactly what is needed to make the he
 2. **Steam & SteamVR** (Installed via Steam)
 3. **VMT (Virtual Motion Tracker)** - Essential for tracking your headset and controllers in SteamVR without official base stations.
 
+## 🪫 Components
+
+1. **ESP32-P4**
+2. **MPU-6050 6-Axis**
+3. **Any Arduino speaker but preferrably "Mini Loudspeaker"
+
 ### Python Dependencies
 Install the required base libraries using `pip`:
 ```bash
